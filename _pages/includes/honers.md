@@ -1,3 +1,4 @@
+# 🎖 Honors and Awards
 - *2022* SIGIR Student Travel Grant
 - *2022* Dean's List Award, KAUST
 - *2021* Outstanding Graduate, Beijing
