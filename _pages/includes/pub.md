@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Searching
+## 🔍 Searching
 
 - ``ACL 2022`` [Keywords and Instances: A Hierarchical Contrastive Learning Framework Unifying Hybrid Granularities for Text Generation](https://aclanthology.org/2022.acl-long.304.pdf), **Mingzhe Li**, XieXiong Lin, Xiuying Chen, Jinxiong Chang, Qishen Zhang, Feng Wang, Taifeng Wang, Zhongyi Liu, Wei Chu, Dongyan Zhao, Rui Yan.
 
@@ -9,8 +9,6 @@
 
 
 ## 🧑‍🎨 Text Generation Application
-
-- ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
 
 - ``SIGIR 2022`` [Target-aware Abstractive Related Work Generation with Contrastive Learning](https://arxiv.org/pdf/2205.13339.pdf), Xiuying Chen, Hind Alamro, **Mingzhe Li**, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/Target-aware-RWG)
 
@@ -38,5 +36,7 @@
 
 
 ## 🎙 Dialog System 
+
+- ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
 
 - ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen, **Mingzhe Li**, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao1, Xiangliang Zhang, Rui Yan.

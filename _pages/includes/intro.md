@@ -1,5 +1,5 @@
 
-Hi! I am a algorithm engineer at Ant Group beginning from 2022. 
+Hi! I am an algorithm engineer at Ant Group beginning from 2022. 
 Prior to Ant Group, I got my B.S degree in Software Engineering at <a href="https://www.xidian.edu.cn///">Xidian University</a> and my M.S degree in <a href="https://english.pku.edu.cn/">Peking University</a>, supervised by Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a> and Prof. <a href="https://www.icst.pku.edu.cn/zhaodongyan/en/">Dongyan Zhao</a>.
 
 
