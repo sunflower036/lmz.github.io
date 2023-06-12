@@ -25,13 +25,13 @@
 
 - ``ACL 2023`` [Improving the Robustness of Summarization Systems with Dual Augmentation](https://arxiv.org/pdf/2306.01090.pdf), Xiuying Chen, Guodong Long, Chongyang Tao, **Mingzhe Li**, Xin Gao, Chengqi Zhang, Xiangliang Zhang. [Code](https://github.com/iriscxy/robustness)
 
-- ``SIGIR 2023`` [A Topic-aware Summarization Framework with Different Modal Side Information](https://arxiv.org/pdf/2305.11503.pdf), Xiuying Chen, **Mingzhe Li**, Shen Gao, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao, Xiangliang Zhang.
+- ``SIGIR 2023`` [A Topic-aware Summarization Framework with Different Modal Side Information](https://arxiv.org/pdf/2305.11503.pdf), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao, Xiangliang Zhang.
 
-- ``EMNLP 2022`` [Scientific Paper Extractive Summarization Enhanced by Citation Graphs](https://arxiv.org/pdf/2212.04214.pdf), Xiuying Chen, **Mingzhe Li**, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang.
+- ``EMNLP 2022`` [Scientific Paper Extractive Summarization Enhanced by Citation Graphs](https://arxiv.org/pdf/2212.04214.pdf), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang.
 
 - ``NeurIPS 2022`` [Towards Improving Faithfulness in Abstractive Summarization](https://arxiv.org/pdf/2210.01877.pdf), Xiuying Chen, **Mingzhe Li**, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/FES)
 
-- ``TOIS 2022`` [Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/pdf/10.1145/3517221), Xiuying Chen, **Mingzhe Li**, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan. [Code](https://github.com/iriscxy/Unified-Timeline-Summarizer)
+- ``TOIS 2022`` [Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/pdf/10.1145/3517221), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan. [Code](https://github.com/iriscxy/Unified-Timeline-Summarizer)
 
 
 
@@ -39,4 +39,4 @@
 
 - ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
 
-- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen, **Mingzhe Li**, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao1, Xiangliang Zhang, Rui Yan.
+- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen\*, **Mingzhe Li\***, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao1, Xiangliang Zhang, Rui Yan.
