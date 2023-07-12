@@ -37,6 +37,8 @@
 
 ## 🎙 Dialog System 
 
+- ``ACL 2023`` [Dialogue Summarization with Static-Dynamic Structure Fusion Graph](https://aclanthology.org/2023.acl-long.775.pdf), Shen Gao, Xin Cheng, **Mingzhe Li**, Xiuying Chen, Jinpeng Li, Dongyan Zhao, Rui Yan.
+
 - ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
 
 - ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen\*, **Mingzhe Li\***, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao1, Xiangliang Zhang, Rui Yan.
