@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## 🔍 Searching
 
-- ``WSDM 2024`` [Multi-Intent Attribute-Aware Text Matching in Searching], **Mingzhe Li**, Xiuying Chen, Jing Xiang, Qishen Zhang, Changsheng Ma, Chenchen Dai, Jinxiong Chang, Zhongyi Liu, Guannan Zhang.
+- ``WSDM 2024`` Multi-Intent Attribute-Aware Text Matching in Searching, **Mingzhe Li**, Xiuying Chen, Jing Xiang, Qishen Zhang, Changsheng Ma, Chenchen Dai, Jinxiong Chang, Zhongyi Liu, Guannan Zhang.
 
 - ``ACL 2022`` [Keywords and Instances: A Hierarchical Contrastive Learning Framework Unifying Hybrid Granularities for Text Generation](https://aclanthology.org/2022.acl-long.304.pdf), **Mingzhe Li**, XieXiong Lin, Xiuying Chen, Jinxiong Chang, Qishen Zhang, Feng Wang, Taifeng Wang, Zhongyi Liu, Wei Chu, Dongyan Zhao, Rui Yan.
 
@@ -43,4 +43,4 @@
 
 - ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
 
-- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen\*, **Mingzhe Li\***, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao1, Xiangliang Zhang, Rui Yan.
+- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen\*, **Mingzhe Li\***, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao, Xiangliang Zhang, Rui Yan.
