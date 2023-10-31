@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🎖 Awards
 - *2022* Outstanding Graduate, Beijing
 - *2022* Outstanding Graduate of Peking University, Peking University
 - *2020-2021* Excellence in Learning Award, Peking University
