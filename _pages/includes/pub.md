@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## 🔍 Searching
 
-- ``WSDM 2024`` Multi-Intent Attribute-Aware Text Matching in Searching, **Mingzhe Li**, Xiuying Chen, Jing Xiang, Qishen Zhang, Changsheng Ma, Chenchen Dai, Jinxiong Chang, Zhongyi Liu, Guannan Zhang.
+- ``WSDM 2024`` [Multi-Intent Attribute-Aware Text Matching in Searching](https://arxiv.org/pdf/2402.07788.pdf), **Mingzhe Li**, Xiuying Chen, Jing Xiang, Qishen Zhang, Changsheng Ma, Chenchen Dai, Jinxiong Chang, Zhongyi Liu, Guannan Zhang.
 
 - ``ACL 2022`` [Keywords and Instances: A Hierarchical Contrastive Learning Framework Unifying Hybrid Granularities for Text Generation](https://aclanthology.org/2022.acl-long.304.pdf), **Mingzhe Li**, XieXiong Lin, Xiuying Chen, Jinxiong Chang, Qishen Zhang, Feng Wang, Taifeng Wang, Zhongyi Liu, Wei Chu, Dongyan Zhao, Rui Yan.
 
