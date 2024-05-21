@@ -12,6 +12,6 @@
 
 
 # ⭐ Services
-- *2024*, Program Committee, ACL, EACL, SDM, NLPCC.
+- *2024*, Program Committee, ACL, EACL, CIKM.
 - *2023*, Program Committee, WWW, SIGIR, EACL, SDM, NLPCC.
 - *2022*, Program Committee, KDD, WWW, SIGIR, NLPCC.
